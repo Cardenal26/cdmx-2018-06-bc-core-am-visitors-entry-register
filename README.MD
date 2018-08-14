@@ -178,17 +178,17 @@ IG: Pues no fíjate, nada más me llegó la notificación que vimos en el correo
 
 EN: Yo creo que sería todo.
 
-![A255](https://imgur.com/3aHsdjq)
-![A255](https://imgur.com/ZaPbGgZ)
-![A255](https://imgur.com/QN3S7se)
-![A255](https://imgur.com/6FTrtss)
+![A255](https://i.imgur.com/3aHsdjq.jpg)
+![A255](https://i.imgur.com/ZaPbGgZ.jpg)
+![A255](https://i.imgur.com/QN3S7se.jpg)
+![A255](https://i.imgur.com/6FTrtss.jpg)
 
 **Al termino de la entrevista con una de las usuarias con oficina en el co-working se tuvo la oportunidad de platicar con la administradora de
 la plataforma de visitantes.
 La entrevista se trato de hacer lo más natural posible ya que al principio la administradora se mostró un poco exceptica sobre la información que nos
 iba a proporcionar por eso no se contó con un script de preguntas.**
 
-![A255](https://imgur.com/DJ37qKa)
+![A255](https://i.imgur.com/DJ37qKa)
 
 *__transcripción entrevista con Fabiola Pineda(administradora de a.255)__*
 
@@ -402,16 +402,18 @@ You were my first love and you will be my last. -Bob Dylan"
 >“The most courageous act is still to think for yourself. Aloud. -Coco Chanel”
 
 ### Sketch 1
-![SK1]('https://imgur.com/FpEzNOr')
-![SK1](https://imgur.com/dPVQbLQ)
-![SK1](https://imgur.com/vKzSVg7)
-![SK1](https://imgur.com/2HPXCxm)
+
+![SK1](https://i.imgur.com/FpEzNOr.jpg)
+![SK1](https://imgur.com/dPVQbLQ.jpg)
+![SK1](https://imgur.com/vKzSVg7.jpg)
+![SK1](https://imgur.com/2HPXCxm.jpg)
 
 ### Sketch 2
-![SK2](https://imgur.com/Wy6uIfw)
-![SK2](https://imgur.com/akept2k)
-![SK2](https://imgur.com/oSZ88Qj)
-![SK2](https://imgur.com/L85eQPp)
+![SK2](https://i.imgur.com/Wy6uIfw.jpg)
+![SK2](https://i.imgur.com/akept2k.jpg)
+![SK2](https://i.imgur.com/oSZ88Qj.jpg)
+![SK2](https://i.imgur.com/L85eQPp.jpg)
+
 
 ## Benchmark
 
@@ -419,14 +421,15 @@ You were my first love and you will be my last. -Bob Dylan"
 https://marvelapp.com/e74ba64/screen/46624852
 
 ### Pruebas de Usuarios con Prototipo:
-![PROTOTEST]('https://imgur.com/bKEI6hG')
-![PROTOTEST]('https://imgur.com/D5TbXHN')
-![PROTOTEST]('https://imgur.com/kiNmPTv')
-![PROTOTEST]('https://imgur.com/aDY6MrW')
-![PROTOTEST]('https://imgur.com/MRLo4oJ')
-![PROTOTEST]('https://imgur.com/5e54knH')
-![PROTOTEST]('https://imgur.com/PBmzm4s')
-![PROTOTEST]('https://imgur.com/ebxJFvc')
+
+![PROTOTEST](https://i.imgur.com/bKEI6hG.jpg)
+![PROTOTEST](https://i.imgur.com/D5TbXHN.jpg)
+![PROTOTEST](https://i.imgur.com/kiNmPTv.jpg)
+![PROTOTEST](https://i.imgur.com/aDY6MrW.jpg)
+![PROTOTEST](https://i.imgur.com/MRLo4oJ.jpg)
+![PROTOTEST](https://i.imgur.com/5e54knH.jpg)
+![PROTOTEST](https://i.imgur.com/PBmzm4s.jpg)
+![PROTOTEST](https://i.imgur.com/ebxJFvc.jpg)
 
 ##### ANEXOS
 https://drive.google.com/open?id=19UUlPAgf1NYJEm-xs6-WoQH78Gjegt21
