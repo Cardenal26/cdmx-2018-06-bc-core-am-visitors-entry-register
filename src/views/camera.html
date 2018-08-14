@@ -20,12 +20,25 @@
 
 <body class="container">
     <!-- <img id="frame"> -->
-    <video class="shoot" id="player" controls autoplay></video>
-    <button id="capture" class="btn-color btn-large">Capturar</button>
-    <canvas class="shoot" id="snapshot"></canvas>
-    <!-- <img id="img-type" src=""> -->
+    <section class="row bloque2">
+        <div id="center">
+            <img alt=" " src="../assets/t1.png">
+    </section>
+    <h3>Hola, saluda a la cámara</h3>
+    <div class="col s4 m4 l4 xl4 offset-s4">
+        <div class="photo">
+            <video class="shoot" id="player" controls autoplay></video>
+        </div>
 
-    <button id="enviar-datos" class="btn-color btn-large">Registrar</button>
+        <button id="capture" class="btn-color 
+    btn-large btn-reg">Saludar</button>
+    </div>
+    </div>
+    <div class="photo">
+        <canvas class="shoot" id="snapshot"></canvas>
+        <!-- <img id="img-type" src=""> -->
+    </div>
+    <button id="enviar-datos" class="btn-color btn-large btn-reg">Registrar</button>
     <!--firebase-->
     <script src="https://www.gstatic.com/firebasejs/5.3.1/firebase.js"></script>
     <script>
