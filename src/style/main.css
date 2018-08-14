@@ -57,3 +57,8 @@ h1 {
 .table {
   padding: 0px;
 }
+
+#titulo {
+  font-weight: 700;
+  color: #47525e;
+}
